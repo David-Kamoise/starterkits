@@ -1,2 +1,4 @@
 /php/vendor/
 /.phpunit.result.cache
+/behat/vendor/
+/techshop/vendor
